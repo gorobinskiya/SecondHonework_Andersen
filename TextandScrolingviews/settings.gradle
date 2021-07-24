@@ -1,0 +1,2 @@
+rootProject.name = "Text and Scroling views"
+include ':app'
